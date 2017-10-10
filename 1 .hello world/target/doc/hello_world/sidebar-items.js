@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["multiple_hello","The method mutiple_hello prints \"Hello <name>!\" n times."]]});
